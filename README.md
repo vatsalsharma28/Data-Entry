@@ -46,5 +46,3 @@ data.xlsx              # Excel file where data is stored (generated automaticall
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to update paths or any additional information specific to your needs.
